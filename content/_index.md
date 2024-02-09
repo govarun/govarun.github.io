@@ -207,7 +207,7 @@ sections:
         - icon: linkedin
           icon_pack: fab
           name: Connect with me or shoot a DM!
-          link: "https://linkedin.com/varungoyal23"
+          link: "https://linkedin.com/in/varungoyal23"
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me

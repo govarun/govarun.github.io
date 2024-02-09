@@ -106,7 +106,7 @@ social:
     link: https://github.com/govarun
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/varungoyal23
+    link: https://www.linkedin.com/in/varungoyal23
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
